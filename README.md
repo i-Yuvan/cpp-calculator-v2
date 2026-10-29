@@ -1,41 +1,39 @@
-# C++ Smart Calculator
+***C++ Smart Calculator***
 
-A menu-driven calculator built using C++ to practise
+A Advance calculator built using C++ to practise
 programming fundamentals and improve problem-solving skills.
 
-## Features
-- Addition, subtraction, multiplication and division
-- Menu-driven interface
-- Input validation
-- Division-by-zero protection
-- Calculation history during the current session
-- Formatted calculation results
+--- Features
+1. Addition, subtraction, multiplication and division
+2. Menu-driven interface
+3. Input validation
+4. Division-by-zero protection
+5. Calculation history during the current session
+6. Formatted calculation results
 
-## Technologies Used
-- C++
-- Standard C++ Library
+--- Programming languages & Tech Used
+1. C++
+2. Standard C++ Library
 
-## How to Run
+--- How to Run
 Compile the source file using g++:
-
 ```bash
 g++ calculator.cpp -o calculator
 ```
 
 Run the program on Windows:
-
 ```bash
 .\calculator.exe
 ```
 
-## Concepts Practised
-- Functions and parameters
-- Loops and switch statements
-- Conditional statements
-- Vectors and strings
-- Input validation
-- Basic error handling
+--- Concepts Practised
+1. Functions and parameters
+2. Loops and switch statements
+3. Conditional statements
+4. Vectors and strings
+5. Input validation
+6. Basic error handling
 
-## Future Improvements
-- Save calculation history to a file
-- Add more mathematical operations
+--- Future Improvements
+1. Save calculation history to a file
+2. Add more mathematical operations
